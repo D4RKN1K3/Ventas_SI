@@ -1,0 +1,1 @@
+mongodb+srv://nico:<dqdn2HGrxtvjXQTr>@cluster0.ggqd0l4.mongodb.net/?retryWrites=true&w=majority
